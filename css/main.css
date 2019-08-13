@@ -1,0 +1,26 @@
+/* Intro */
+@font-face{font-family: 'Intro';src: url('fonts/Intro/Intro.otf');font-style: normal;}
+/* ===== */
+
+/* Aliquam (Только Латиница) */
+@font-face{font-family: 'Aliquam-R';src: url('fonts/Aliquam/AliquamREG.ttf');font-style: normal;}
+@font-face{font-family: 'Aliquam-SM';src: url('fonts/Aliquam/Aliquam.ttf');font-style: normal;}
+/* =============== */
+
+/* Arsenal */
+@font-face{font-family: 'Arsenal-R';src: url('fonts/Arsenal/Arsenal-Regular.ttf');font-style: normal;}
+@font-face{font-family: 'Aliquam-R-Italic';src: url('fonts/Arsenal/Arsenal-RegularItalic.ttf');font-style: italic;}
+@font-face{font-family: 'Arsenal-B';src: url('fonts/Arsenal/Arsenal-Bold.ttf');font-style: normal;}
+@font-face{font-family: 'Aliquam-B-Italic';src: url('fonts/Arsenal/Arsenal-BoldItalic.ttf');font-style: italic;}
+
+/* Roboto */
+@font-face{font-family: 'Roboto-L';src: url('fonts/Roboto/Roboto-Light.ttf');font-style: normal;}
+@font-face{font-family: 'Roboto-R';src: url('fonts/Roboto/Roboto-Regular.ttf');font-style: normal;}
+@font-face{font-family: 'Roboto-M';src: url('fonts/Roboto/Roboto-Medium.ttf');font-style: normal;}
+@font-face{font-family: 'Roboto-B';src: url('fonts/Roboto/Roboto-Bold.ttf');font-style: normal;}
+
+/* Open Sans */
+@font-face{font-family: 'OpenSans-L';src: url('fonts/Open_Sans/OpenSans-Light.ttf');font-style: normal;}
+@font-face{font-family: 'OpenSans-R';src: url('fonts/Open_Sans/OpenSans-Regular.ttf');font-style: normal;}
+@font-face{font-family: 'OpenSans-B';src: url('fonts/Open_Sans/OpenSans-Bold.ttf');font-style: normal;}
+
